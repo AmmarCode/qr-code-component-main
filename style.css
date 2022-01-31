@@ -17,7 +17,7 @@ container {
 }
 
 card {
-    width: 365px;
+    width: 350px;
     padding: 1.1rem .3rem 1rem .3rem;
     background: hsl(0, 0%, 100%);
     text-align: center;
@@ -26,19 +26,19 @@ card {
 }
 
 img {
-    width: 343px;
+    width: 330px;
     border-radius: 15px;
 }
 
 h1 {
     font-weight: 700;
     padding: 0 25px;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
 }
 
 p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     padding: 0 20px;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
 }
